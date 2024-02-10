@@ -4,9 +4,9 @@ import bcrypt from "bcrypt"
 
 
 
- const ACCESS_TOKEN_SECRET= "chai-aur-code"
+ const ACCESS_TOKEN_SECRET= "somethingnew"
  const ACCESS_TOKEN_EXPIRY= "1d"
- const REFRESH_TOKEN_SECRET= "chai-aur-backend"
+ const REFRESH_TOKEN_SECRET= "special something"
  const REFRESH_TOKEN_EXPIRY="10d"
 
 
